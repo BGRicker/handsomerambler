@@ -1,24 +1,6 @@
-# README
+# Hannibal's Handsome Rambler podcast
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I wanted to mess with the soundcloud API, so I'm making a site for Hannibal's
+Handsome Rambler podcast
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://media.giphy.com/media/UtdteahITKz2U/giphy.gif)
